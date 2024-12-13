@@ -16,8 +16,8 @@ const config = {
     // {
     //   username: "",
     //   password: "",
-    //   openId: "",
-    //   unionId: "",
+    //   openId: "ooru94sKhSJiFU-krjUq7fNyE-2o",
+    //   unionId: "oHY-uwUM3AIYZeyTlbbFl8F3l4RI",
     //   sign: true, //是否自动签到
     //   reSign: true, //是否重新签到
     //   signImagePath: "./images/1.jpeg", //签到图片
