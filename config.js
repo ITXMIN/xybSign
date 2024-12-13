@@ -16,16 +16,16 @@ const config = {
     // {
     //   username: "",
     //   password: "",
-    //   openId: "ooru94sKhSJiFU-krjUq7fNyE-2o",
-    //   unionId: "oHY-uwUM3AIYZeyTlbbFl8F3l4RI",
+    //   openId: "",
+    //   unionId: "",
     //   sign: true, //是否自动签到
     //   reSign: true, //是否重新签到
     //   signImagePath: "./images/1.jpeg", //签到图片
     //   needReport: false, //是否自动填写周报
     // },
   ],
-  qmsgKey: "", //qmsg酱key
-  qmsgTo: "", //推送的qq号,用,分隔(可选)
+  qmsgKey: "0c77c73d7b0d16e8dbcd13d128906e8f", //qmsg酱key
+  qmsgTo: "3452923848", //推送的qq号,用,分隔(可选)
   wxPusherAppToken: "", // wxPusher 的 appToken
   // TODO: feat: (wxpusher/topic) support wxpusher/topic push
 };
